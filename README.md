@@ -4,7 +4,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F0C419&center=true&vCenter=true&width=1000&lines=Fine-tuning+Mistral-7B+on+BACE-1+Inhibitors;Achieving+0.8034+Peak+ROC-AUC;Optimizing+Generalization+via+Low-Rank+Adapters;Scaffold+Split+Validation+for+Scientific+Rigor."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DEE2D9&center=true&vCenter=true&width=1000&lines=Fine-tuning+Mistral-7B+on+BACE-1+Inhibitors;Achieving+0.8034+Peak+ROC-AUC;Optimizing+Generalization+via+Low-Rank+Adapters;Scaffold+Split+Validation+for+Scientific+Rigor."
     alt="Typing SVG"
   />
 </div>
