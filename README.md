@@ -26,7 +26,6 @@ Achieving high generalization on **Scaffold Splits** is the gold standard for dr
 
 
 
-
 ### 🔍 Evidence of Peak Generalization
 ![Optimization Curve](bace_optimization_curve.jpeg)
 *Figure: The model hits peak generalization before the onset of scaffold-split overfitting at Step 500.*
