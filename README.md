@@ -10,7 +10,6 @@
 </div>
 
 <br/>
-
 ### 🧬 Scientific Mission
 Achieving high generalization on **Scaffold Splits** is the gold standard for drug discovery. This study optimizes **Mistral-7B** for BACE-1 inhibitor prediction using a high-regularization approach (LoRA rank $r=8$) to prevent memorization and capture structural chemical signals.
 
